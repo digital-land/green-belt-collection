@@ -1,1 +1,3 @@
 pipeline,resource,pattern,value
+green-belt,,GB_Name,name
+green-belt,,WKT,geometry

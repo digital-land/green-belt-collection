@@ -1,1 +1,2 @@
 endpoint,endpoint-url,parameters,plugin,entry-date,start-date,end-date
+7a71c8f0a09abceb93c5f588a9ce205145ab0a1bbb9c8f7148371262e185ea24,http://maps.communities.gov.uk/geoserver/dclg_inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dclg_inspire%3AEngland_Green_Belt_2019-20_WGS84&outputFormat=SHAPE-ZIP,,,2021-05-28T14:14:13:37Z,,
