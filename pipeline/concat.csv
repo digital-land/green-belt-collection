@@ -1,2 +1,3 @@
 pipeline,resource,field,fields,separator,entry-date,start-date,end-date
-green-belt,,geography,lad19cd;GB_Name,-,,,
+green-belt,,geography,lad19cd,,,,
+green-belt,,reference,lad19nm,,,,
