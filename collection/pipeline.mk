@@ -83,6 +83,7 @@ GREEN_BELT_TRANSFORMED_FILES=\
     $(TRANSFORMED_DIR)green-belt/e4dc7358d68bd5c76e849fab85178f8b6b5daea24da99574cb053fa6afb09daa.csv\
     $(TRANSFORMED_DIR)green-belt/e559fd79d2b7295c73dcf19331b22edee0f6de02ec2aab7fa66b2e08012c7720.csv\
     $(TRANSFORMED_DIR)green-belt/e5e03b9e042845280d0c496bd3b6e2d267ea2f6c8bc280198b95f3e751f63213.csv\
+    $(TRANSFORMED_DIR)green-belt/e717601af182c3d8edd762b9e59b8545c14341c1409e4a11e2ba26344a5128d1.csv\
     $(TRANSFORMED_DIR)green-belt/e7b67cfdc615ccd2ca57bb1b4aee07e698719c11fa30996df29a821ff16fff1a.csv\
     $(TRANSFORMED_DIR)green-belt/e8b0b0ceaf77d097739cad962a9f5fe867ffa1988d9e2806d5e813204ddea147.csv\
     $(TRANSFORMED_DIR)green-belt/e916e2ee36546b100465f91e1a94bbb55c57339c8bc3e26c974e99ea7f6dd4b5.csv\
@@ -344,6 +345,9 @@ $(TRANSFORMED_DIR)green-belt/e559fd79d2b7295c73dcf19331b22edee0f6de02ec2aab7fa66
 	$(run-pipeline)
 
 $(TRANSFORMED_DIR)green-belt/e5e03b9e042845280d0c496bd3b6e2d267ea2f6c8bc280198b95f3e751f63213.csv: collection/resource/e5e03b9e042845280d0c496bd3b6e2d267ea2f6c8bc280198b95f3e751f63213
+	$(run-pipeline)
+
+$(TRANSFORMED_DIR)green-belt/e717601af182c3d8edd762b9e59b8545c14341c1409e4a11e2ba26344a5128d1.csv: collection/resource/e717601af182c3d8edd762b9e59b8545c14341c1409e4a11e2ba26344a5128d1
 	$(run-pipeline)
 
 $(TRANSFORMED_DIR)green-belt/e7b67cfdc615ccd2ca57bb1b4aee07e698719c11fa30996df29a821ff16fff1a.csv: collection/resource/e7b67cfdc615ccd2ca57bb1b4aee07e698719c11fa30996df29a821ff16fff1a
