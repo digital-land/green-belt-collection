@@ -1,6 +1,7 @@
 # Green belt collection
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/green-belt-collection/blob/master/LICENSE)
+[![Run pipeline](https://github.com/digital-land/green-belt-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/green-belt-collection/actions/workflows/run.yml)
 
 A collection of Green belt collected from MHCLG and local authorities.
 
