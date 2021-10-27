@@ -11,8 +11,6 @@ class HarmoniserPlugin:
 
     @digital_land.hookimpl
     def apply_patch_post(self, fieldname, value):
-        if fieldname == "organisation":
-            print(fieldname, value)
         return value
 
 
