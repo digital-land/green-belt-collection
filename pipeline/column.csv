@@ -1,7 +1,17 @@
 pipeline,resource,pattern,value
 green-belt,,lad11cd,green-belt
+green-belt,,ons_code,green-belt
+green-belt,,lad15cd,green-belt
+green-belt,,lad16cd,green-belt
+green-belt,,lad17cd,green-belt
+green-belt,,lad18cd,green-belt
 green-belt,,lad19cd,green-belt
+green-belt,,la_name,name
 green-belt,,lad11nm,name
+green-belt,,lad15nm,name
+green-belt,,lad16nm,name
+green-belt,,lad17nm,name
+green-belt,,lad18nm,name
 green-belt,,lad19nm,name
 green-belt,,GB_Name,green-belt-core
 green-belt,,WKT,geometry
