@@ -1,6 +1,7 @@
-pipeline,resource,pattern,value
+dataset,resource,column,field
 green-belt,,lad11cd,green-belt
 green-belt,,ons_code,green-belt
+green-belt,,la_code,green-belt
 green-belt,,lad15cd,green-belt
 green-belt,,lad16cd,green-belt
 green-belt,,lad17cd,green-belt
