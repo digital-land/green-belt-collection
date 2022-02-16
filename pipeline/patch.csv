@@ -1,4 +1,4 @@
-pipeline,resource,field,pattern,value
+dataset,resource,field,pattern,value
 green-belt,,green-belt-core,Bath and Bristol,Q48742764
 green-belt,,green-belt-core,Birmingham,Q48742526
 green-belt,,green-belt-core,Blackpool,Q48742432

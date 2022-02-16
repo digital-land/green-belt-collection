@@ -1,2 +1,2 @@
-pipeline,resource,field,default-field,entry-date,start-date,end-date
+dataset,resource,field,default-field,entry-date,start-date,end-date
 green-belt,organisation,green-belt,,,
