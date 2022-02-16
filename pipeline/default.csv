@@ -1,2 +1,2 @@
 dataset,resource,field,default-field,entry-date,start-date,end-date
-green-belt,organisation,green-belt,,,
+green-belt,,organisation,reference,,,
