@@ -23,6 +23,7 @@ specification/
 collection/resource/
 dataset/
 transformed/
+flattened/
 issue/
 # files built from the collection
 collection/log.csv
