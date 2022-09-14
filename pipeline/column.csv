@@ -1,4 +1,5 @@
 dataset,resource,column,field
+green-belt,,WKT,geometry
 green-belt,,lad11cd,local-authority-district
 green-belt,,ons_code,local-authority-district
 green-belt,,la_code,local-authority-district
@@ -15,5 +16,5 @@ green-belt,,lad16nm,name
 green-belt,,lad17nm,name
 green-belt,,lad18nm,name
 green-belt,,lad19nm,name
+green-belt,,lad20nm,name
 green-belt,,GB_Name,green-belt-core
-green-belt,,WKT,geometry
