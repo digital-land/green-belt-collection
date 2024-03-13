@@ -1,1 +1,0 @@
-{"elapsed":"5.168","endpoint-url":"http://maps.communities.gov.uk/geoserver/dclg_inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dclg_inspire%3AEngland_Green_Belt_2017-18_WGS84&outputFormat=GML3","entry-date":"2023-03-03T01:59:44.369238","exception":"ChunkedEncodingError","ssl-verify":true}
